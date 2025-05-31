@@ -43,7 +43,7 @@ Project/
       ```
 
 3. **Uygulamayı Çalıştırma**: Proje kök dizininde aşağıdaki komutu çalıştırın:
-       ```bash
+    ```bash
    python src/main.py
       ```
 ## Kullanım

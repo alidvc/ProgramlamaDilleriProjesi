@@ -1,0 +1,33 @@
+Dilbilgisi Tanımı
+
+Başlangıç sembolü: S
+
+Üretim Kuralları: S → E E → T OPERATOR T E → IDENTIFIER = E E → NUMBER T → NUMBER T → IDENTIFIER
+
+Token Türleri:
+
+
+
+
+
+KEYWORD: if, else, while, return
+
+
+
+IDENTIFIER: Harf veya alt çizgi ile başlayan, harf veya rakam içeren diziler
+
+
+
+NUMBER: Tamsayılar (ör. 42, 123)
+
+
+
+OPERATOR: +, -, *, /, =
+
+
+
+COMMENT: // ile başlayan tek satırlık yorumlar
+
+
+
+WHITESPACE: Boşluklar, sekmeler, satır sonları (yoksayılır)

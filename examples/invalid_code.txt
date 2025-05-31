@@ -1,0 +1,1 @@
+x = @ 5 // Invalid character if 42 + + 10 // Invalid syntax y * = z // Invalid operator sequence

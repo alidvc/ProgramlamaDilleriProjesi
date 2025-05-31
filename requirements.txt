@@ -1,0 +1,7 @@
+Proje bağımlılıkları
+
+Tkinter, Python'un standart kütüphanesiyle gelir, ancak bazı sistemlerde ayrı kurulması gerekebilir.
+
+Örneğin, Ubuntu'da: sudo apt-get install python3-tk
+
+Windows ve macOS'ta genellikle Python ile birlikte gelir.
